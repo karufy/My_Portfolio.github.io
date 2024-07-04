@@ -48,13 +48,13 @@
 }
     
 .bgimage {
-    height:100vh;
+    height:90vh;
     background-color: #050b38;
     background-size:cover;
     position:relative;
     padding: 0;
     margin: 0;
-    height: 1200px;;
+    height: 1000px;;
 }
 
 .hero_title {
